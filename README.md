@@ -10,6 +10,7 @@
   - <a href="贪心算法.md">贪心</a>
 - 数据结构
   - <a href="链表.md">链表</a>
+  - <a href="栈.md">栈</a>
   - <a href="树.md">树</a>
   - <a href="图.md">图</a>
 - <a href="设计题.md">设计题</a>
