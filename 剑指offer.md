@@ -10,6 +10,8 @@
 
 <a href="剑指offer/剑指offer 45.把数组排成最小的数.md">剑指offer 45.把数组排成最小的数</a>
 
+<a href="剑指offer/剑指offer 60.n个骰子的点数.md">剑指offer 60.n个骰子的点数</a>
+
 <a href="剑指offer/剑指offer 66.构建乘积数组.md">剑指offer 66.构建乘积数组</a>
 
 <a href="剑指offer/剑指offer 67.把字符串转换成整数.md">剑指offer 67.把字符串转换成整数</a>
