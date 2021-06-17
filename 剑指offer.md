@@ -12,6 +12,8 @@
 
 <a href="剑指offer/剑指offer 46.把数字翻译成字符串.md">剑指offer 46.把数字翻译成字符串</a>
 
+<a href="剑指offer/剑指offer 59-I.滑动窗口的最大值.md">剑指offer 59-I.滑动窗口的最大值</a>
+
 <a href="剑指offer/剑指offer 60.n个骰子的点数.md">剑指offer 60.n个骰子的点数</a>
 
 <a href="剑指offer/剑指offer 66.构建乘积数组.md">剑指offer 66.构建乘积数组</a>
